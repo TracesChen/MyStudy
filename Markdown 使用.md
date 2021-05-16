@@ -135,3 +135,11 @@ This is C language
 
 
 
+# 参考
+
+> 1、[学习Typora官网](https://typora.io/)
+>
+> 2、[kuangstudy地址：](https://www.bilibili.com/video/BV12J41137hu?p=6)
+
+
+
